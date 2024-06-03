@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Rodrigo Lucas, be very welcome. 👋
 
 - I'm student of informacion of sistems<br>-🌱 I’m currently learning back-end with Java and SQL
 
