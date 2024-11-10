@@ -1,6 +1,6 @@
 ## Hi there, i'm Rodrigo Lucas, be very welcome. 👋
 
-- Student of informacion of sistems<br>-🌱 I’m currently learning back-end with Java,Spring and JUnit.
+- Student of informacion of sistems<br>-🌱 I’m currently learning back-end with Java,Spring and JS
 
 
 ## 🌐 Socials:
