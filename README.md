@@ -1,5 +1,5 @@
 # Rodrigo Oliveira | Software Developer. 
-* Fullstack developer passionate about building scalable and high-performance applications. My main focus is Node.js and Java, designing and maintaining RESTful APIs, implementing authentication and authorization with JWT, and applying modern architectures and best practices.
+* Fullstack developer passionate about building scalable and high-performance applications. My main focus is Java, designing and maintaining RESTful APIs, implementing authentication and authorization with JWT, and applying modern architectures and best practices.
 * Also i have experience with React, building complete fullstack solutions.
 
 
